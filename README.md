@@ -1,7 +1,7 @@
 # Simon Game using Jquery
 
-## Play the Game Here: https://en3rypt.github.io/simon-game/
-## Screenshots Of The Game
+## https://en3rypt.github.io/simon-game/
+## Screenshots
 
 ![Start](/images/start.png)
 
@@ -14,9 +14,9 @@ In each round a new key is added to the series and the game becomes increasingly
 
 ## Rules
 
-1- At the beginning of the game, one of the 4 keys lights up randomly producing simultaneously a sound associated to the key.
-2- The player has to press the same key.
-3- Next, the Simon turns back the same light on and a second one, again randomly.
-4- The player has to reproduce this chain of light using his memory.
-5- And so on... In each round a new key is added to the series and the game becomes all the more difficult as the player's memory is put to the test.
+1- At the beginning of the game, one of the 4 keys lights up randomly producing simultaneously a sound associated to the key.<br/>
+2- The player has to press the same key.<br/>
+3- Next, the Simon turns back the same light on and a second one, again randomly.<br/>
+4- The player has to reproduce this chain of light using his memory.<br/>
+5- And so on... In each round a new key is added to the series and the game becomes all the more difficult as the player's memory is put to the test.<br/>
 6- If the player doesn't make any mistake, the game goes on, so it is an endless game!
